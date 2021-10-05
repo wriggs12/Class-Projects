@@ -1,1 +1,1 @@
-# CSCI-235-Projects
+# Class-Projects
