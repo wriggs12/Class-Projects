@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "client_registry.h": "c",
+        "socket.h": "c",
+        "transaction.h": "c",
+        "pthread.h": "c",
+        "semaphore.h": "c",
+        "features.h": "c",
+        "types.h": "c",
+        "struct_timespec.h": "c",
+        "select.h": "c"
+    }
+}

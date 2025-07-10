@@ -1,0 +1,9 @@
+0	16688	T	running		echo hello world
+0	16688	T	stopped		echo hello world
+1	16690	T	running		sleep 1
+1	16690	T	stopped		sleep 1
+1	16690	T	running		sleep 1
+0	16688	T	running		echo hello world
+0	16688	T	dead	0x0	echo hello world
+1	16690	T	killed		sleep 1
+1	16690	T	dead	0x9	sleep 1
